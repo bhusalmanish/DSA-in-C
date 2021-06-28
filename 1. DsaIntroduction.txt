@@ -1,0 +1,73 @@
+A computer program is a collection of instructions to perform a specific task. For this,a
+computer program may need to store data, retrieve data, and perform computations on the data.
+
+
+#Data Structure
+A data structure is a named location that can be used to store and organize data. And, an 
+algorithm is a collection of steps to solve a particular problem. Learning data structures
+and algorithms allow us to write efficient and optimized computer programs.
+
+#Algorithm
+Algorithm is a step by step procedure, which defines a set of instructions to be executed in 
+certain order to get the desired output. In term of data structures, following are the
+categories of algorithms.
+
+Search − Algorithms to search an item in a datastrucure.
+
+Sort − Algorithms to sort items in certain order
+
+Insert − Algorithm to insert item in a datastructure
+
+Update − Algorithm to update an existing item in a data structure
+
+Delete − Algorithm to delete an existing item from a data structure
+
+
+
+
+
+#Data Definition
+Data Definition defines a particular data with following characteristics.
+
+Atomic − Definition should define a single concept
+
+Traceable − Definition should be be able to be mapped to some data element.
+
+Accurate − Definition should be unambiguous.
+
+Clear and Concise − Definition should be understandable.
+
+#Data Object
+Data Object represents an object having a data.
+
+#Data Type
+Data type is way to classify various types of data such as integer, string etc. which determines the values 
+that can be used with the corresponding type of data, the type of operations that can be performed on the
+ corresponding type of data. Data type of two types −
+
+Built-in Data Type
+
+Derived Data Type
+
+Built-in Data Type
+Those data types for which a language has built-in support are known as Built-in Data types. For example,
+ most of the languages provides following built-in data types.
+
+Integers
+
+Boolean (true, false)
+
+Floating (Decimal numbers)
+
+Character and Strings
+
+Derived Data Type
+Those data types which are implementation independent as they can be implemented in one or other way are
+ known as derived data types. These data types are normally built by combination of primary or
+  built-in data types and associated operations on them. For example −
+
+List
+Array
+Stack
+Queue
+
